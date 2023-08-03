@@ -1,0 +1,37 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Wiki SEPEP
+  descr: "Projeto realizado quando fiz Estagio na Prefeitura de São Paulo, uma Wiki sobre os projetos de SEPEP,para a gestão do conhecimento interno da equipe da Secretaria de Planejamento e Entregas Prioritárias da Prefeitura de São Paulo."
+  tags:
+    - tag: PHP
+    - tag: Python
+    - tag: Shell
+    - tag: Docker
+
+- name: Estudos ObservaSampa
+  descr: "Um Projeto do Open Journal Systems (OJS) é um software de gerenciamento e publicação de revistas eletrônicas, desenvolvido no âmbito do Public Knowledge Project (PKP). Utilizado para criar os Estudos do ObservaSampa"
+  tags:
+    - tag: Shell
+    - tag: Dockerfile
+    - tag: HTML
+    - tag: CSS
+
+- name: Relogio Analogico 
+  descr: "Relógio analógico feito em HTML, CSS e JAVASCRIPT. Como parte da aula de JavaScript, trabalho realizado e entregue para o Professor Guanabara"
+  tags:
+    - tag: CSS
+    - tag: HTML5
+    - tag: JavaScript

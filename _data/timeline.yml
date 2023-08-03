@@ -1,0 +1,66 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Secretaria Municipal de São Paulo / SGM / SEPEP
+  title-url: https://www.prefeitura.sp.gov.br/cidade/secretarias/governo/planejamento/
+  date: Nov 2022 - Present
+  subtitle: Estagio Dev
+  tags:
+    - tag: HTML5
+    - tag: Javascript
+    - tag: CSS
+    - tag: DOCKER
+    - tag: Git
+    - tag: Python
+    - tag: Excel
+    - tag: Power BI
+    - tag: Outlook
+  timeline-side: right
+
+- title: SECRETARIA MUNICIPAL DAS SUBPREFEITURAS
+  title-url: https://www.prefeitura.sp.gov.br/cidade/secretarias/subprefeituras/
+  date: Jan 2022 - Out 2022
+  subtitle: Estagio na Secretaria Municipal das Subprefeitra na área de Tecnologia. 
+  tags:
+    - tag: Microsoft SQL Server
+    - tag: Microsoft Excel
+    - tag: Microsoft Outlook
+    - tag: Microsoft Power BI
+  timeline-side: right
+
+- title: FAM - Faculdade das Americas
+  title-url: https://www.vemprafam.com.br/
+  date: 2021 - 2024
+  subtitle: Faculdade de Sistemas de Informação
+  tags:
+    - tag: MySQL
+    - tag: POO
+  timeline-side: left
+
+- title: Dasa
+  title-url: https://dasa.com.br/
+  date: Mar 2020 - Ago 2021
+  subtitle: Atendente de Call-center receptivo.
+  timeline-side: right
+
+- title: Ensino Médio Completo
+  title-url: http://www.educacao.sp.gov.br/cgrh/escolas/albino-cesar/
+  date: 2013 - 2015
+  subtitle: Albino Cesar
+  timeline-side: left
