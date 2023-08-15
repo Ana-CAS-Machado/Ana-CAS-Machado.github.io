@@ -11,17 +11,11 @@
 - name: Bash
   weight: 3
 
-- name: Scrum
-  weight: 2
-
 - name: Chrome DevTools
   weight: 2
 
 - name: npm
   weight: 1
-
-- name: gulp
-  weight: 2
 
 - name: VS Code
   weight: 5
