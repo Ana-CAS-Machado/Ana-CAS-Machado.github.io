@@ -17,12 +17,13 @@
   descr: "O Sistema de Monitoramento e Acompanhamento Estratégico é um software livre e de código aberto que foi desenvolvido com o objetivo de promover melhores práticas na gestão da informação e garantir a consistência na coleta de dados relativos ao Programa de Metas e aos Projetos Prioritários da administração pública municipal."
   demo: https://smae.prefeitura.sp.gov.br/
   tags:
-    - tag: Jekyl
+    - tag: Jekyll
     - tag: HTML
     - tag: CSS
     - tag: JavaScript
     - tag: Luquid
     - tag: Sass
+    - tag: Ruby
 
 - name: Wiki SEPEP
   descr: "Projeto realizado quando fiz Estagio na Prefeitura de São Paulo, uma Wiki sobre os projetos de SEPEP,para a gestão do conhecimento interno da equipe da Secretaria de Planejamento e Entregas Prioritárias da Prefeitura de São Paulo."
