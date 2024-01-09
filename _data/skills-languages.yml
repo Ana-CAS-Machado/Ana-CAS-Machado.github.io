@@ -17,8 +17,5 @@
 - name: CSS3
   weight: 4
 
-- name: Java
-  weight: 4
-
 - name: Ruby
   weight: 2
