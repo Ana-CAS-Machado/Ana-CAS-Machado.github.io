@@ -32,7 +32,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: Sobre mim
 # about_me_description: This will be displayed under the title.
-about_me_description: Tenho facilidade de aprendizagem, sou pontual, comprometida e organizada. Estou me desenvolvendo como Dev em Front-end, sempre aprimorando meu conhecimentos ao maximo, Atualmente estagiando na <a class="highlight-link" href="https://www.capital.sp.gov.br/" target="_blank" rel="noreferrer">Prefeitura de São Paulo</a> no setor de <a class="highlight-link"https://www.prefeitura.sp.gov.br/cidade/secretarias/governo/planejamento/" target="_blank" rel="noreferrer">SEPEP</a> aprendendo linguagens como PHP, Shell Script, Python, Docker, Git. Você pode encontrar meus projetos no <a class="highlight-link" href="https://github.com/Ana-CAS-Machado" target="_blank" rel="noreferrer"> Github </a>. Você pode me achar no <a class="highlight-link" href="https://www.linkedin.com/in/ana-carolina-alves-da-silva-machado-a17244112/" target="_blank" rel="noreferrer">Linkedin</a>.
+about_me_description: Com uma abordagem focada em pontualidade, agilidade e comprometimento, destaco-me na área de Front-End, onde encontrei minha verdadeira paixão. Orgulho-me das atualizações em HTML, estágio realizado e da criação da WIKI em PHP Shell Script na SEPEP. Além disso, avancei com cursos profissionalizantes na Alura, como CSS, HTML, Docker, Git/GitHub, e pelo Nano Courses da FIAP para Python. Meu estudo de POO é pela faculdade. Estou determinada a explorar oportunidades na tecnologia e programação para impulsionar a empresa além das expectativas, buscando sempre novos desafios e horizontes.
 
 # SKILLS SECTION
 # show_skills_card:
